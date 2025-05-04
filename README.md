@@ -1,5 +1,7 @@
 # Papaver-RFCs
 
+[ActivityPub W3C](https://www.w3.org/TR/activitypub/)
+
 Papaver is a federated social network utilizing tools from across the web to introduce new ideas into the fediverse.
 
 Papaver main purpose is to introduce:
